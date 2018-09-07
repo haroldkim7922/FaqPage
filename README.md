@@ -1,3 +1,3 @@
 ProspectScout live working project
 
-![](FaqPage.gif)
+![](Faq.gif)

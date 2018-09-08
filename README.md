@@ -18,6 +18,12 @@ Showcase: "user is typing" feature, incoming new messages alert
 
 ![](message1.gif)
 
+<br/>
+
+Responsive Design for Messaging Feature
+
+![](message2.gif)
+
 Demo of school management tool for athletes <br/>
 
 Features include: drag n drop to adjust rank, notes, tagging system, activity tracking
